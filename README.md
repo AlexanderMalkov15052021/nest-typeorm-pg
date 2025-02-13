@@ -1,1 +1,1 @@
-nest / type-orm 
+nest / typeorm 
